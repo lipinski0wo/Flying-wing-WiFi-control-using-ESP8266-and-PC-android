@@ -1,6 +1,6 @@
 # Flying Wing WiFi control with ESP8266 and your PC or Phone browser 
 
-In this project we are trying to use ESP8266 WiFi microcontroller as Flying Wing / Delta Wing aircraft on board communication board. 
+In this project we are trying to use ESP8266 WiFi microcontroller as Flying Wing / Delta Wing aircraft communication board. 
 
 Files: 
 
